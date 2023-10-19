@@ -1,4 +1,5 @@
 ﻿using WShopApi.Model;
+using WShopApi.Data;
 
 namespace WShopApi.Repository
 {
@@ -10,21 +11,29 @@ namespace WShopApi.Repository
             // aqui ing llamar a la referencia web del soap service
             List<Producto> listPrd = new List<Producto>();
             Producto prd1 = new Producto();
-            prd1.codigo = 1;
+            prd1.Codigo = 1;
             prd1.Nombre = "Vajilla inglesa";
-            prd1.precio = Convert.ToString(40.5);
-            prd1.moneda = "BOB";
+            prd1.Precio = 40.5;
+            prd1.Moneda = 1;
+            prd1.DescMoneda = "BOB";
 
             Producto prd2 = new Producto();
-            prd2.codigo = 2;
+            prd2.Codigo = 2;
             prd2.Nombre = "Escoba diaria";
-            prd2.precio = Convert.ToString(40.5);
-            prd2.moneda = "BOB";
+            prd2.Precio = 40.5;
+            prd2.Moneda = 2;
+            prd2.DescMoneda = "USD.";
+
 
             listPrd.Add(prd1);
             listPrd.Add(prd2);
             return listPrd;
 
         }
+
+
+
+
     }
+
 }

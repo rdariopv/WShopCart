@@ -11,9 +11,9 @@ namespace WShopApi.Controllers
     {
 
         
-        [Route("getCatalog")]
+        [Route("GetListProduct")]
         [HttpPost]
-        public ActionResult<List<Producto>> getCatalog() {
+        public ActionResult<List<Producto>> getListProduct() {
             List<Producto> listPrd = new List<Producto>();
             IShopBiz shop=  new ShopBiz();
             try {

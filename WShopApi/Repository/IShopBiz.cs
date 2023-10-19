@@ -5,5 +5,6 @@ namespace WShopApi.Repository
     public interface IShopBiz
     {
         public List<Producto> GetProductos();
+
     }
 }

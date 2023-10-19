@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tfLWRzBMkdJ5N5bsfcFu9LH4F8JbWKtjeWxvkhqVZtY=",
+  "Source": "WShopApi",
+  "BasePath": "_content/WShopApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

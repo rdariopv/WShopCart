@@ -1,0 +1,11 @@
+C:\Users\Windows 10\source\repos\WShopApi\WShopApi\obj\Debug\net6.0\PubTmp\Out\WShopApi.exe
+C:\Users\Windows 10\source\repos\WShopApi\WShopApi\obj\Debug\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Windows 10\source\repos\WShopApi\WShopApi\obj\Debug\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Windows 10\source\repos\WShopApi\WShopApi\obj\Debug\net6.0\PubTmp\Out\WShopApi.dll
+C:\Users\Windows 10\source\repos\WShopApi\WShopApi\obj\Debug\net6.0\PubTmp\Out\WShopApi.deps.json
+C:\Users\Windows 10\source\repos\WShopApi\WShopApi\obj\Debug\net6.0\PubTmp\Out\WShopApi.runtimeconfig.json
+C:\Users\Windows 10\source\repos\WShopApi\WShopApi\obj\Debug\net6.0\PubTmp\Out\WShopApi.pdb
+C:\Users\Windows 10\source\repos\WShopApi\WShopApi\obj\Debug\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Windows 10\source\repos\WShopApi\WShopApi\obj\Debug\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Windows 10\source\repos\WShopApi\WShopApi\obj\Debug\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Windows 10\source\repos\WShopApi\WShopApi\obj\Debug\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

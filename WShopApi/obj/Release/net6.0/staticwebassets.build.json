@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WwiPeNsnfqyaaWRaEhOgAylfUt2xBH2+DLqhbUPr5fI=",
+  "Source": "WShopApi",
+  "BasePath": "_content/WShopApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
